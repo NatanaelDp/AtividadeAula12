@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AtividadeAula12/1.0.0": {
+        "runtime": {
+          "AtividadeAula12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeAula12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
